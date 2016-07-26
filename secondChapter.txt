@@ -1,0 +1,8 @@
+git init
+git clone https ssh  git三种协议
+git add
+git status
+git diff
+git diff --staged
+git diff --cached
+git commit
