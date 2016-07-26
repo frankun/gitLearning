@@ -6,3 +6,9 @@ git diff
 git diff --staged
 git diff --cached
 git commit
+
+
+
+
+git remote 
+git remote -v
