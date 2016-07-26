@@ -12,3 +12,14 @@ git commit
 
 git remote 
 git remote -v
+git fetch origin
+git push origin master
+git remoter show origin
+git remote rename name1 name2
+git remote rm name
+
+
+git branch
+git branch testing
+git checkout testing
+
