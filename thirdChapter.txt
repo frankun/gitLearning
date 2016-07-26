@@ -1,0 +1,8 @@
+git branch
+git branch -a
+git branch -r
+git branch -d
+git branch -D
+git branch -d -r
+git checkout
+git checkout -b
